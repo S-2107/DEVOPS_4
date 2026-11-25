@@ -5,3 +5,5 @@ Set-Content books.txt @(
 )
 Get-ChildItem
 B004,Atomic Habits,James Clear
+B005,The Hobbit,J.R.R.Tolkien
+B006,1984,George Orwell
