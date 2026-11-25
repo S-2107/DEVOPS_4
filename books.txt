@@ -1,0 +1,6 @@
+Set-Content books.txt @(
+    'B001, The Alchemist, Paulo Coelho'
+    'B002, Wings of Fire, A. P. J. Abdul Kalam'
+    'B003, Clean Code, Robert C. Martin'
+)
+Get-ChildItem
