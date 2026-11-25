@@ -4,3 +4,4 @@ Set-Content books.txt @(
     'B003, Clean Code, Robert C. Martin'
 )
 Get-ChildItem
+B004,Atomic Habits,James Clear
